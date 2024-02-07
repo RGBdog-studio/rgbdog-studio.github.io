@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audiovisual on RGBdog studio</title>
+    <link>http://rgbdog-studio.github.io/tags/audiovisual/</link>
+    <description>Recent content in Audiovisual on RGBdog studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Aug 2023 10:00:00 +0000</lastBuildDate><atom:link href="http://rgbdog-studio.github.io/tags/audiovisual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BedroomLiveOut</title>
+      <link>http://rgbdog-studio.github.io/projects/bedroomliveout/</link>
+      <pubDate>Mon, 07 Aug 2023 10:00:00 +0000</pubDate>
+      
+      <guid>http://rgbdog-studio.github.io/projects/bedroomliveout/</guid>
+      <description>with Jacob Sachs-Mishalanie, Berk Özdemir, Laelume, Currency</description>
+    </item>
+    
+    <item>
+      <title>We Declare</title>
+      <link>http://rgbdog-studio.github.io/projects/we-declare/</link>
+      <pubDate>Mon, 07 Aug 2023 10:00:00 +0000</pubDate>
+      
+      <guid>http://rgbdog-studio.github.io/projects/we-declare/</guid>
+      <description>Premiered for the virtual festival by Umanesimo Artificiale</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,24 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rgbdog-studio.github.io/tags/one-pot/</loc>
-    <lastmod>2022-03-23T20:56:42+02:00</lastmod>
+    <loc>http://rgbdog-studio.github.io/projects/volumetric-interviews/</loc>
+    <lastmod>2023-05-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rgbdog-studio.github.io/projects/bedroomliveout/</loc>
+    <lastmod>2023-08-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rgbdog-studio.github.io/projects/collective-memory/</loc>
+    <lastmod>2023-08-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rgbdog-studio.github.io/tags/education/</loc>
+    <lastmod>2023-08-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rgbdog-studio.github.io/tags/experimental-dcoumentary/</loc>
+    <lastmod>2023-08-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rgbdog-studio.github.io/tags/playful-technology/</loc>
+    <lastmod>2023-08-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rgbdog-studio.github.io/projects/</loc>
+    <lastmod>2023-08-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rgbdog-studio.github.io/</loc>
-    <lastmod>2022-03-23T20:56:42+02:00</lastmod>
-  </url><url>
-    <loc>http://rgbdog-studio.github.io/tags/simple/</loc>
-    <lastmod>2022-03-23T20:56:42+02:00</lastmod>
+    <lastmod>2023-08-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rgbdog-studio.github.io/tags/</loc>
-    <lastmod>2022-03-23T20:56:42+02:00</lastmod>
+    <lastmod>2023-08-07T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rgbdog-studio.github.io/tags/vegetarian/</loc>
-    <lastmod>2022-03-23T20:56:42+02:00</lastmod>
+    <loc>http://rgbdog-studio.github.io/projects/the-last-dinner/</loc>
+    <lastmod>2023-08-07T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rgbdog-studio.github.io/volumetric-interviews/</loc>
-    <lastmod>2022-03-23T20:56:42+02:00</lastmod>
+    <loc>http://rgbdog-studio.github.io/about/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rgbdog-studio.github.io/projects/we-declare/</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rgbdog-studio.github.io/projects/data-degrowth/</loc>
+    <lastmod>2019-08-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rgbdog-studio.github.io/tags/digital-sustainablity/</loc>
+    <lastmod>2019-08-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rgbdog-studio.github.io/categories/</loc>
+  </url><url>
+    <loc>http://rgbdog-studio.github.io/projects/homegrown-interdependence/</loc>
   </url>
 </urlset>

@@ -347,3 +347,9 @@ template {
 [hidden] {
   display: none;
 }
+
+/* Added by Soyun */
+
+.gdoc-columns {
+    display: flex;
+}

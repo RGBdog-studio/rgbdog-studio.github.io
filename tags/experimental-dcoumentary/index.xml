@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experimental Dcoumentary on RGBdog studio</title>
+    <link>http://rgbdog-studio.github.io/tags/experimental-dcoumentary/</link>
+    <description>Recent content in Experimental Dcoumentary on RGBdog studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Aug 2023 10:00:00 +0000</lastBuildDate><atom:link href="http://rgbdog-studio.github.io/tags/experimental-dcoumentary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RGBdog presents: Volumetric Interviews</title>
+      <link>http://rgbdog-studio.github.io/projects/volumetric-interviews/</link>
+      <pubDate>Sun, 07 May 2023 10:00:00 +0000</pubDate>
+      
+      <guid>http://rgbdog-studio.github.io/projects/volumetric-interviews/</guid>
+      <description>with Krea, Leo Scarin, Peter Pflügler, Cailean Finn, Handi Kim, Garam Eo, Princess Camel</description>
+    </item>
+    
+    <item>
+      <title>The Last Dinner</title>
+      <link>http://rgbdog-studio.github.io/projects/the-last-dinner/</link>
+      <pubDate>Mon, 07 Aug 2023 10:00:00 +0000</pubDate>
+      
+      <guid>http://rgbdog-studio.github.io/projects/the-last-dinner/</guid>
+      <description>In collaboration with Kexin Hao</description>
+    </item>
+    
+    <item>
+      <title>We Declare</title>
+      <link>http://rgbdog-studio.github.io/projects/we-declare/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://rgbdog-studio.github.io/projects/we-declare/</guid>
+      <description>Premiered for the &lt;a href=&#34;https://www.instagram.com/stories/highlights/17858904583964864/&#34;&gt;virtual festival (watch)&lt;/a&gt; by &lt;a href=&#34;http://www.umanesimoartificiale.xyz/&#34;&gt;Umanesimo Artificiale&lt;/a&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
